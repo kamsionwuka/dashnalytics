@@ -7,7 +7,7 @@ export default function App() {
       <header className="px-4 bg-primary relative">
         <div className="container mx-auto py-3 flex justify-between items-center">
           <div className="flex flex-col text-gray-700">
-            <h2 className="font-semibold capitalize">Elder John Doe</h2>
+            <h2 className="font-semibold capitalize">Kamsi Onwuka</h2>
             <p className="text-xs sm:text-sm opacity-70">Here you can manage your online store</p>
           </div>
           <form action="" className="bg-white py-2 px-4 drop-shadow-xl rounded-md flex items-center gap-2 text-slate-600">
