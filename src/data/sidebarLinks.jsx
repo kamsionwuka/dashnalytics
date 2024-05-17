@@ -1,11 +1,11 @@
-import {FanHouse, FaBagShopping, FaWallet, FaDice, FaStore, FaTelegram } from "react-icons/fa6";
+import { FaBagShopping, FaDice, FaHouse, FaStore, FaTelegram, FaWallet } from "react-icons/fa6";
 
 export const sidebarLinks = [
     {
         id: "80250",
         title: "Dashboard",
         link: "/",
-        icon: <FanHouse />,
+        icon: <FaHouse />,
     },
     {
         id: "80251",
@@ -22,7 +22,7 @@ export const sidebarLinks = [
     {
         id: "80253",
         title: "Category",
-        link: "/product",
+        link: "/category",
         icon: <FaDice />,
     },
     {
@@ -36,5 +36,5 @@ export const sidebarLinks = [
         title: "Shipment",
         link: "/shipment",
         icon: <FaTelegram />,
-    }
+    },
 ]
