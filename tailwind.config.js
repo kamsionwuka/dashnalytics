@@ -9,7 +9,7 @@ export default {
       colors: {
         primary: "#f3f6ff",
         main: "#3cbaf7",
-        dark: "#262d35",
+        dark:"#262d35",
       },
       boxShadow: {
         default: "4px 4px 10px -4px #1c64f24d"
